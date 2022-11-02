@@ -1,0 +1,27 @@
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\bin\Debug\net6.0\appsettings.json
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\bin\Debug\net6.0\Jenkins Assignment.exe
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\bin\Debug\net6.0\Jenkins Assignment.deps.json
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\bin\Debug\net6.0\Jenkins Assignment.runtimeconfig.json
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\bin\Debug\net6.0\Jenkins Assignment.dll
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\bin\Debug\net6.0\Jenkins Assignment.pdb
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\Jenkins Assignment.csproj.AssemblyReference.cache
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\Jenkins Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\Jenkins Assignment.AssemblyInfoInputs.cache
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\Jenkins Assignment.AssemblyInfo.cs
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\Jenkins Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\Jenkins Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\Jenkins Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\scopedcss\bundle\Jenkins Assignment.styles.css
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\Jenkins Assignment.csproj.CopyComplete
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\Jenkins Assignment.dll
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\refint\Jenkins Assignment.dll
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\Jenkins Assignment.pdb
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\Jenkins Assignment.genruntimeconfig.cache
+C:\Users\ABansal\source\repos\Jenkins Assignment\Jenkins Assignment\obj\Debug\net6.0\ref\Jenkins Assignment.dll
